@@ -1,6 +1,6 @@
-# DataGallary Team — DataAgentBench submission
+# DataGallery Team - Qwen3.8-Max — DataAgentBench submission
 
-- **Agent / team:** DataGallary Team
+- **Agent / team:** DataGallery Team - Qwen3.8-Max
 - **Backbone model:** Qwen3.8-Max
 - **Hints:** Yes (`db_description_withhint.txt`)
 - **Prompt category: GENERAL VERSION — NOT HIGHLY TUNED. Tuned prompt: No.** This run does not use a DAB-specific up-front prompt built from a close study of DAB's task conventions. The same general reporting and verification instructions are used across datasets, with no per-dataset answer values, row sets, thresholds, or decisive interpretation choices. Answer content is derived from each question and sanctioned stores. The full prompts are available for the benchmark maintainers to review this classification.
