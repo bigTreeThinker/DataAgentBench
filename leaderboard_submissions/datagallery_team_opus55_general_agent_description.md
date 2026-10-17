@@ -1,4 +1,4 @@
-# Agent Description — DataGallary Team + Opus 5.5
+# Agent Description — DataGallery Team - Opus 5.5
 
 > **Tuned Prompt: No.** This submission uses one general-purpose data-agent prompt, unchanged across all 270 runs. It does not use a DAB-specific tuned prompt.
 >
@@ -6,7 +6,7 @@
 
 ## Configuration
 
-- **Team / agent name:** DataGallary Team + Opus 5.5
+- **Team / agent name:** DataGallery Team - Opus 5.5
 - **Agent type:** single ReAct planner/executor loop using a LangGraph backend; no sub-agents or master-worker delegation
 - **Backbone model:** `claude-opus-5-5`, used for every model step
 - **Tuned Prompt:** **No — general-purpose prompt**

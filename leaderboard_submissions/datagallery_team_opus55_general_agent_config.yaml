@@ -1,4 +1,4 @@
-# DataGallary Team + Opus 5.5 — single-ReAct configuration used for
+# DataGallery Team - Opus 5.5 — single-ReAct configuration used for
 # this submission. Prompt-genericity audit: PROMPT_AUDIT.md.
 # Placeholders $env{...} are filled at runtime with the model endpoint and key.
 AGENT_CONFIG:
