@@ -1,4 +1,4 @@
-# DataGallery - Qwen3.8-Max (+ self-evolving semantic layer)
+# DataGallery Team - Qwen3.8-Max (+ self-evolving semantic layer)
 
 ## Configuration
 
